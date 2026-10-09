@@ -1,0 +1,7 @@
+# Original garden concept artwork
+
+Generated with the built-in image-generation tool on 9 October 2026. Used as concept art, never as gameplay footage. The source PNG is preserved in the local generation archive; optimized WebP and JPEG variants are included in this repository.
+
+Final prompt:
+
+> Use case: stylized-concept. Asset type: premium website hero illustration for Plant Box Studio, a Roblox garden tycoon creative project. Create an original highly polished wide landscape 3D low-poly cartoon garden diorama, 3:2 landscape. Rich bright lime and forest greens, warm honey-brown wooden square planting boxes, cubic block-leaf trees, a charming large open square timber crate in the foreground with an oversized chunky emerald sprout emerging, several smaller square planters with joyful unusual succulent shapes, small pale cream stepping stones. Composition: hero object and garden occupy center and right, quiet pale sage green background, distant blocky trees, gentle isometric elevated camera, believable thick square low-poly geometry, sharp square corners, soft bevels, satisfying premium toy-like physically lit rendering, subtle ambient occlusion, warm morning sunlight, delightful handcrafted look. Background is a seamless pale sage and sky cream studio environment with a few distant floating cubic leaf accents. No text, no logos, no people, no avatars, no interface, no watermark. This is concept artwork, not a screenshot of an existing game.
